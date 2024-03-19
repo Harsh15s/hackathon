@@ -6,8 +6,8 @@
 #include <WiFiClient.h>
 #include <BlynkSimpleEsp32.h>
 
-char ssid[] = "Tech1704"; // Your WiFi SSID
-char pass[] = "Ddgtechfifa1704#"; // Your WiFi password
+char ssid[] = ""; // Your WiFi SSID
+char pass[] = ""; // Your WiFi password
 
 WidgetLED led1(V1); // Virtual LED widget for the first IR sensor
 WidgetLED led2(V2); // Virtual LED widget for the second IR sensor
